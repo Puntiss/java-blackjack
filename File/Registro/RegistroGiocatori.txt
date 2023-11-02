@@ -1,0 +1,9 @@
+Name
+Password
+Money
+Puntiss
+1234
+103500
+andrea
+1234
+960
